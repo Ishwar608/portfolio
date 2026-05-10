@@ -92,10 +92,10 @@ export const projects: readonly Project[] = [
   {
     name: "Listing IQ powered by Zikhara",
     subtitle: "Amazon listing automation & Pricing IQ · Zikhara AI",
-    links: {
-      product: "https://www.zikhara.ai/",
-      app: "https://beta.zikhara.ai/login?redirectTo=%2Fpricing-iq",
-    },
+    // links: {
+    //   product: "https://www.zikhara.ai/",
+    //   app: "https://beta.zikhara.ai/login?redirectTo=%2Fpricing-iq",
+    // },
     bullets: [
       "Listing IQ is part of Zikhara AI’s Amazon listing suite: sellers connect Seller Central to generate compliant copy and visuals (including New Listing, Enhance Listing, and A+ content), optimize for conversions, then review and publish at scale.",
       "The public product narrative centers on compliant automation, stronger keyword capture, clearer conversion levers, and replacing slow manual or agency-heavy listing work.",
